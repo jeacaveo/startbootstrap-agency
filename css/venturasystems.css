@@ -2,3 +2,15 @@
     height: 260px;
     max-width: 100%
 }
+
+.icon-attribution > div > a{
+    color: #000000;
+}
+
+.icon-attribution {
+    font-size: xx-small;
+}
+
+.navbar-default .navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+}
